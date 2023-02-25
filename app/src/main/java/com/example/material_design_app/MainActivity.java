@@ -16,6 +16,12 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+     * CANNOT COMPLETE
+     * real-time database needed
+     * rt db is breaking the project
+     */
+
     private static int SPLASH_SCREEN = 5000;
 
     // Vars for animation
