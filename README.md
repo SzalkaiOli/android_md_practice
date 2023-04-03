@@ -1,4 +1,4 @@
 # android_md_practice
 
-To-List Application
+Application with splash, login and registration screens
 with Native Android / Java and Material Design
