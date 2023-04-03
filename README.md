@@ -1,4 +1,5 @@
 # android_md_practice
 
-Application with splash, login and registration screens
-with Native Android / Java and Material Design
+"Car Renting" Application 
+with splash, login and registration screens
+made in Native Android / Java and Material Design
