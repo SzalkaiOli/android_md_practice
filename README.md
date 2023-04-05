@@ -1,4 +1,4 @@
-# android_md_practice
+# Android Material Design Practice
 
 "Car Renting" Application 
 with splash, login and registration screens
